@@ -9,7 +9,7 @@ Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmen
             src="https://custom-icon-badges.demolab.com/github/stars/LizDuque04?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a> 
-  <a href="https://github.com/Larissakich?tab=followers">
+  <a href=https://github.com/LizDuque04>
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -94,9 +94,9 @@ Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmen
 />
 <br>
   <img 
-    align="left" 
+    align="right" 
     height=135
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=tokyonight&Layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
