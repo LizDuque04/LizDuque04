@@ -1,4 +1,4 @@
-## Olá Pessoal! 👋
+## Olá Pessoal! Sou a Liz👋
 
 Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Apaixonada por tecnologia e automação, desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨
   
