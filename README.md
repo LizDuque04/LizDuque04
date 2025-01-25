@@ -95,7 +95,7 @@ Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmen
 
   <img 
     align="left" 
-    height=145 
+    height=130 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
 />
