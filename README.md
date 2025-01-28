@@ -90,14 +90,15 @@ Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmen
     align="left" 
     height=200 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
 />
 <br>
   <img 
     align="left" 
     height=200
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=tokyonight&Layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&Layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-
+<br>
+  <br>
 </p>
