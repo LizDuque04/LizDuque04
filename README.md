@@ -12,7 +12,7 @@ Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmen
   <a href=https://github.com/LizDuque04>
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Me siga o GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/LizDuque04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
