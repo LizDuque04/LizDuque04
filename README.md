@@ -1,110 +1,54 @@
-## Olá Pessoal! Sou a Liz👋
+<h1 align="center">Hi 👋, I'm Sou a Liz</h1>
+<h3 align="center">Meu nome é Elizabete Duque, sou natural de São Paulo e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Apaixonada por tecnologia e automação, desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨</h3>
 
-Meu nome é Elizabete Duque, sou natural de São Paulo, tenho 23 anos e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Apaixonada por tecnologia e automação, desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨
-  
-  <a href="https://github.com/LizDuque04?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LizDuque04?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a> 
-  <a href="https://github.com/LizDuque04?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LizDuque04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="left">
 </p>
 
----
+<h3 align="left">Linguagens:</h3>
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+  </a>
+</p>
 
-### 👩🏿‍💻Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
- <img 
-   align="left"
-   alt="MySQL"
-   title="MySQL"
-   width="40px"
-   style="padding-right: 20px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-   />
           
 
 <br/>
 
 ### 👾 Estatísticas
 
-<p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
-    align="left" 
-    height=200 
-    style="padding-right: 10px;" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-/>
-<br>
+  />
+  
   <img 
-    align="left" 
-    height=200
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&Layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-<br>
-  <br>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
