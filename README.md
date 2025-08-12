@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
-<h3 align="center">Meu nome é Elizabete Duque, sou natural de São Paulo e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Apaixonada por tecnologia e automação, desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨</h3>
+<h3 align="center">Meu nome é Elizabete Duque, mas também pode me chamar de Liz, sou natural de São Paulo e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Gosto bastante de tecnologia e automação e desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨</h3>
 
 <p align="left">
 </p>
