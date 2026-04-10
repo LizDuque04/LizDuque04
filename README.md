@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
-<h3 align="center">Meu nome é Elizabete Duque, mas pode me chamar de Liz, sou natural de São Paulo e atualmente curso Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Gosto bastante de tecnologia e automação, desenvolvo minhas habilidades por meio de projetos realizados durante cursos e iniciativas pessoais.✨</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/SEU_BANNER_AQUI.gif" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LizDuque04&color=green" alt="views"/>
+  <img src="https://img.shields.io/github/repos/LizDuque04?color=blue" alt="repos"/>
+</p>
 
 <p align="left">
 </p>
