@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/SEU_BANNER_AQUI.gif" />
+  <img src="[https://i.imgur.com/SEU_BANNER_AQUI.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM5ZTZwbDIzMXBuNXJsMXVsd3Q0bTh0bzlqdTJzM3NoM29neDRvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif)" />
 </p>
 
 <p align="center">
