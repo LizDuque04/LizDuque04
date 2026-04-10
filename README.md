@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhweHp0bW16bTQ4MjBwZ2J3ODh2eGhneG9qemRrOTU2Mjg4OXAzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lsw8RenVcjCM/giphy.gif" />
+  <img src="<img width="740 height="470" alt="image" src="https://github.com/user-attachments/assets/6c2de86f-a6a3-442a-8706-9a16a68d387f"/>
 </p>
 
 <p align="center">
