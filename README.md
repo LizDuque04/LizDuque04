@@ -4,11 +4,6 @@
   <img src="https://github.com/LizDuque04/gif/blob/main/pixel%20GIF.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LizDuque04&color=green" alt="views"/>
-  <img src="https://img.shields.io/github/repos/LizDuque04?color=blue" alt="repos"/>
-</p>
-
 <p align="left">
 </p>
 
