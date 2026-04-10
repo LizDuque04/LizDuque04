@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
 
 <p align="center">
-  <img src="pixelGIF.gif" width="100%" />
+  <img src="gif/pixel GIF.gif" width="100%" />
 </p>
 
 <p align="center">
