@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
 
 <p align="center">
-  <img src="<img width="740 height="470" alt="image" src="https://github.com/user-attachments/assets/6c2de86f-a6a3-442a-8706-9a16a68d387f"/>
+  <img src="assets/pixel GIF.gif" width="100%" />
 </p>
 
 <p align="center">
