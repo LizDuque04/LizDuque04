@@ -38,5 +38,8 @@
 
 ### 👾 Estatísticas
 
-| <img height="200" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" /> | <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" /> |
+| <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&layout=compact&custom_title=Tecnologias"/>
+</p>|
 | --- | --- |
