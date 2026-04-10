@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25wcjhycDB1dThxZHFsOGk4M2F6bzUxYzRhZmVxemFramRiaHMxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhweHp0bW16bTQ4MjBwZ2J3ODh2eGhneG9qemRrOTU2Mjg4OXAzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7lsw8RenVcjCM/giphy.gif" />
 </p>
 
 <p align="center">
