@@ -33,6 +33,7 @@
 <br/>
 
 ### 👾 Estatísticas
+<img src="https://github-readme-stats.vercel.app/api?username=LizDuque04O&show_icons=true&theme=radical"/>
 
 | <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/>
