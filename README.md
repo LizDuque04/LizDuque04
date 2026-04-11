@@ -9,7 +9,7 @@
 
 <h3 align="left">Linguagens:</h3>
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p style="font-size: 0;" align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
   </a> 
