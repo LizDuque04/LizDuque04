@@ -8,8 +8,14 @@
 </p>
 
 <h3 align="left">Linguagens:</h3>
+
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> 
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/>
   </a>
