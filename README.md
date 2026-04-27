@@ -1,55 +1,18 @@
-<h1 align="center">Hi 👋, I'm Liz</h1>
+# 💫 About Me:
+🎓 Estudando Desenvolvimento de Software<br>💻 Focado em Desenvolvimento Back-end<br>☕ Aprendendo Java, Python e Bancos de Dados<br>🚀 Sempre aprimorando minhas habilidades<br>🎯 Em busca da minha primeira oportunidade na área de tecnologia
 
-<p align="center">
-  <img src="https://github.com/LizDuque04/gif/blob/main/pixel%20GIF.gif" width="100%" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elizabete-oliveira-duque/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elizabete.duque2002@gmail.com) 
 
-## 👩‍💻 About Me
-
-- 🎓 Studying Software Development  
-- 💻 Focused on **Back-end Development**  
-- ☕ Learning **Java, Python and Databases**  
-- 🚀 Always improving my skills  
-- 🎯 Looking for my first opportunity in tech  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LizDuque04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=LizDuque04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LizDuque04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=LizDuque04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/elizabete-oliveira-duque/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">✨ “Code, learn, evolve.” ✨</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
