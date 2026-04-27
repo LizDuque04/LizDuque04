@@ -1,42 +1,55 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
+<h3 align="center">Back-end Developer in Progress 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/LizDuque04/gif/blob/main/pixel%20GIF.gif" width="100%" />
 </p>
 
-<p align="left">
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Studying Software Development  
+- 💻 Focused on **Back-end Development**  
+- ☕ Learning **Java, Python and Databases**  
+- 🚀 Always improving my skills  
+- 🎯 Looking for my first opportunity in tech  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55" height="55"/>
 </p>
 
-<h3 align="left">Linguagens:</h3>
+---
 
-<p style="font-size: 0;" align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="70"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="70"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="70" height="70"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-     
-<br/>
 
-### 👾 Estatísticas
-<img src="https://github-readme-stats.vercel.app/api?username=LizDuque04O&show_icons=true&theme=radical"/>
+---
 
-| <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&theme=merko&layout=compact&custom_title=Tecnologias"/>
-</p>|
-| --- | --- |
+<p align="center">✨ “Code, learn, evolve.” ✨</p>
