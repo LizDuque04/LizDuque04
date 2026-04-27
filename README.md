@@ -1,9 +1,9 @@
-# 💫 About Me:
-🎓 Estudante de Ciências da Computação
-🐍 Aprimorando meus conhecimentos em Python, SQL e R
-☁️ Estudando processos de ETL na AWS com S3, Glue e Athena
-🚀 Sempre evoluindo minhas habilidades técnicas
-🎯 Estagiaria | Analytics Engineer | Itaú Unibanco
+# 💫 About Me: <br>
+🎓 Estudante de Ciências da Computação <br>
+🐍 Aprimorando meus conhecimentos em Python, SQL e R<br>
+☁️ Estudando processos de ETL na AWS com S3, Glue e Athena<br>
+🚀 Sempre evoluindo minhas habilidades técnicas<br>
+🎯 Estagiaria | Analytics Engineer | Itaú Unibanco<br>
 
 ---
 
