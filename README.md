@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 Estudando Desenvolvimento de Software  
-💻 Focado em Desenvolvimento Back-end  
-☕ Aprendendo Java, Python e Bancos de Dados  
-🚀 Sempre aprimorando minhas habilidades  
-🎯 Em busca da minha primeira oportunidade na área de tecnologia  
+🎓 Estudante de Ciências da Computação    
+🐍 Aprimorando meus conhecimentos em Python, SQL e R 
+☁️ Estudando processos de ETL na AWS com S3, Glue, Athena, Lambda e Redshift
+🚀 Sempre evoluindo minhas habilidades técnicas  
+🎯 Estagiaria | Analytics Engineer | Itaú Unibanco
 
 ---
 
