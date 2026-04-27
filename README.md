@@ -5,6 +5,9 @@
 🚀 Sempre evoluindo minhas habilidades técnicas  
 🎯 Estagiaria | Analytics Engineer | Itaú Unibanco
 
+<p align="center">
+  <img src="https://github.com/LizDuque04/gif/blob/main/pixel%20GIF.gif" width="100%" />
+</p>
 ---
 
 ## 🌐 Socials:
@@ -38,5 +41,3 @@
 </p>
 
 ---
-
-<p align="center">✨ Code. Learn. Evolve. ✨</p>
