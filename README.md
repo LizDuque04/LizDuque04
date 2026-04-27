@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Liz</h1>
-<h3 align="center">Back-end Developer in Progress 🚀</h3>
 
 <p align="center">
   <img src="https://github.com/LizDuque04/gif/blob/main/pixel%20GIF.gif" width="100%" />
