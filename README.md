@@ -2,6 +2,7 @@
 🎓 Estudante de Ciências da Computação    
 🐍 Aprimorando meus conhecimentos em Python, SQL e R 
 ☁️ Estudando processos de ETL na AWS com S3, Glue, Athena, Lambda e Redshift
+
 🚀 Sempre evoluindo minhas habilidades técnicas  
 🎯 Estagiaria | Analytics Engineer | Itaú Unibanco
 
