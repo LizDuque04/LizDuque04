@@ -25,16 +25,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LizDuque04&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizDuque04&layout=compact&theme=tokyonight&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=LizDuque04&theme=tokyonight&hide_border=false"/>
-</p>
-
----
